@@ -1,2 +1,6 @@
 # PID_Controller
-Matplotlib animation for visualizing PID tracking
+matplotlib animation for visualizing PID tracking
+
+move the mouse around and the missile will track the mouse location
+
+The animation will only 'update' if the mouse is moving
